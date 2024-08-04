@@ -1,2 +1,1 @@
-"# React-inventory-Management-System" 
-Working progress
+React-inventory-Management-System
